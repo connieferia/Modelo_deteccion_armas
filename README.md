@@ -1,4 +1,4 @@
-# Sistema de detección de armas con TinyML en ESP32-S3
+# Sistema de Detección de Armas con TinyML en ESP32-S3
 
 Este proyecto implementa un sistema de detección de armas en tiempo real utilizando técnicas de Deep Learning y TinyML,
 ejecutado en un dispositivo embebido ESP32-S3. El modelo fue entrenado para detectar objetos
