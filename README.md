@@ -66,8 +66,13 @@ Además:
 - Requiere estabilidad de la cámara
 - Distancia efectiva: ~1 metro
 
-## 🎥 Demostración del sistema
+## Evidencia del sistema en ejecución
 
-El siguiente video muestra el funcionamiento del sistema de detección de armas en tiempo real en la ESP32-S3:
+El video evidencia el comportamiento del modelo en tiempo real, donde se observa la detección de armas 
+mediante bounding boxes y niveles de confianza. Asimismo, se analiza la variación de estos valores en función de factores como la iluminación, la distancia y la estabilidad de la cámara, los cuales influyen directamente en el desempeño del sistema.
 
+📁 Archivo: IMG_6659(1).MOV
+
+Nota: Debido a las limitaciones de GitHub, el video no puede visualizarse directamente en el navegador.
+Para observar la ejecución del sistema, es necesario descargar el archivo.
 
