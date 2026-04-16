@@ -65,3 +65,9 @@ Además:
 - Puede generar falsos positivos con objetos oscuros
 - Requiere estabilidad de la cámara
 - Distancia efectiva: ~1 metro
+
+## 🎥 Demostración del sistema
+
+El siguiente video muestra el funcionamiento del sistema de detección de armas en tiempo real en la ESP32-S3:
+
+
