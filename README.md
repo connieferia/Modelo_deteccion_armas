@@ -70,9 +70,8 @@ Además:
 
 El video evidencia el comportamiento del modelo en tiempo real, donde se observa la detección de armas 
 mediante bounding boxes y niveles de confianza. Asimismo, se analiza la variación de estos valores en función de factores como la iluminación, la distancia y la estabilidad de la cámara, los cuales influyen directamente en el desempeño del sistema.
+## 🎥 Demostración del modelo
 
-📁 Archivo: Video_Prueba.MOV
+👉 Haz clic aquí para ver el video: https://drive.google.com/file/d/18T_xka-XMKn9TBlPOdFYelbT25-2lgP5/view?usp=sharing
 
-Nota: Debido a las limitaciones de GitHub, el video no puede visualizarse directamente en el navegador.
-Para observar la ejecución del sistema, es necesario descargar el archivo.
 
